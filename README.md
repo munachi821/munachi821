@@ -6,28 +6,28 @@ I’m a passionate **Frontend Web Developer** with **2 years of experience** bui
 
 ## 🚀 Featured Projects
 
-### 📝 [Modern Todo Manager](https://github.com/munachi821/Modern-todo-manager)
+### [Modern Todo Manager](https://github.com/munachi821/Modern-todo-manager)
 A fully-featured to-do list app with support for editing, deleting, pinning, and timed completion using countdowns and browser notifications. Built using vanilla JavaScript and styled with Tailwind CSS.
 
 > **Tech:** HTML, JavaScript, TailwindCSS, localStorage, Notifications API
 
 ---
 
-### 🎟️ [Conference Ticket Generator](https://github.com/munachi821/conference-ticket-generator-main)
+### [Conference Ticket Generator](https://github.com/munachi821/conference-ticket-generator-main)
 Generates personalized conference tickets based on user input. Includes form validation, avatar upload, and dynamic ticket rendering with a unique ID.
 
 > **Tech:** HTML, CSS, JavaScript
 
 ---
 
-### ❓ [Quiz App](https://github.com/munachi821/quiz-app)
+### [Quiz App](https://github.com/munachi821/quiz-app)
 A clean and simple multiple-choice quiz app. Handles question cycling, user input, and score tracking entirely on the frontend.
 
 > **Tech:** HTML, CSS/SCSS, JavaScript
 
 ---
 
-### 💼 [Easybank Landing Page](https://github.com/munachi821/Easybank-landing-page)
+### [Easybank Landing Page](https://github.com/munachi821/Easybank-landing-page)
 A modern, mobile-first landing page built from scratch. This project recreates the Easybank design, focusing on layout structure, responsiveness, and component-based design.
 
 > **Tech:** HTML, CSS, JavaScript, TailwindCSS
