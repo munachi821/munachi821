@@ -1,29 +1,41 @@
-<h1 align="center">Hi 👋, I'm MUNACHI BRIGHT ONYEBUCHI</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=munachi821&label=Profile%20views&color=0e75b6&style=flat" alt="munachi821" /> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=20&duration=2800&pause=1400&color=0F766E&center=true&vCenter=true&width=500&lines=I+build+for+the+web.;I+care+about+the+details.;I+ship+polished+interfaces.)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on **table-tap**
+# Munachi Onyebuchi
 
-- 🌱 I’m currently learning **framer motion**
+**Frontend Developer**  
+Enugu, Nigeria
 
-- 👨‍💻 All of my projects are available at [https://github.com/munachi821](https://github.com/munachi821)
+<a href="https://munachi.cv">Portfolio</a> ·
+<a href="https://ng.linkedin.com/in/munachi-onyebuchi-90b6a12a8">LinkedIn</a> ·
+<a href="https://x.com/dev_munachi">X</a> ·
+<a href="mailto:munaonye4@gmail.com">Email</a>
 
-- 📫 How to reach me **munaonye4@gmail.com**
+</div>
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1EXnrJEaI4rj-jf7Xwtqd3nhyXiqUCZ7WTBdrjNr_r5k/edit?tab=t.0](https://docs.google.com/document/d/1EXnrJEaI4rj-jf7Xwtqd3nhyXiqUCZ7WTBdrjNr_r5k/edit?tab=t.0)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/munaweb3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="munaweb3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/munachi-onyebuchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="munachi-onyebuchi" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/94104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="94104" height="30" width="40" /></a>
-</p>
+## A little about me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+I build fast, well-crafted web experiences for products that need to feel as good as they function.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=munachi821&show_icons=true&locale=en&layout=compact" alt="munachi821" /></p>
+My work sits at the intersection of thoughtful design and solid frontend engineering: responsive layouts, clear interactions, smooth motion, and the kind of details people notice without having to think about them.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=munachi821&" alt="munachi821" /></p>
+## My stack
 
+```text
+Next.js     React       TypeScript    JavaScript
+Tailwind    Framer Motion            Supabase
+Figma       Vercel      Railway
+```
+
+## Currently
+
+Exploring better ways to build useful, elegant products on the web.
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/See_my_work-munachi.cv-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://munachi.cv)
+
+</div>
