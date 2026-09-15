@@ -4,7 +4,7 @@
 
 Frontend developer building clear, high-performing web experiences.
 
-[Portfolio](https://munachi.cv) · [LinkedIn](https://ng.linkedin.com/in/munachi-onyebuchi-90b6a12a8) · [X](https://x.com/dev_munachi) · [Email](mailto:munaonye4@gmail.com)
+[Portfolio](https://munachi.cv) · [LinkedIn](https://www.linkedin.com/in/munachi-onyebuchi/) · [X](https://x.com/dev_munachi) · [Email](mailto:munaonye4@gmail.com)
 
 </div>
 
